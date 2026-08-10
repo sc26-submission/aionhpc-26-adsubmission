@@ -1,0 +1,10 @@
+cd C:\Users\pw\projects\aionhpc-26-adsubmission
+git config user.name
+git config user.email
+
+git checkout --orphan clean-main
+git add -A
+git commit -m "Artifact submission"
+git branch -D main
+git branch -m main
+git push --force-with-lease origin main
