@@ -3,3 +3,7 @@ malleserve-simulation-exps\traces
 malleserve-simulation-exps/traces
 ANL-ALCF-MACHINESTATUS-POLARIS_20250101_20251231
 ANL-ALCF-DJC-POLARIS_20250101_20251231
+figures
+plot_worker_avialablity_trace.py
+malleserve-simulation-exps\logs
+malleserve-simulation-exps/logs
