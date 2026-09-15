@@ -1,0 +1,15 @@
+commit.txt
+malleserve-simulation-exps/traces
+ANL-ALCF-MACHINESTATUS-POLARIS_20250101_20251231
+ANL-ALCF-DJC-POLARIS_20250101_20251231
+logs
+figures
+*__pycache__*
+__pycache__/
+*.py[cod]
+.venv/
+logs/
+results/
+*.pdf
+*.png
+.DS_Store
